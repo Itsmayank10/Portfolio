@@ -9,7 +9,7 @@
   
 - 📫 How to reach me through Mobile **+917000218285**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QvEUC7S1Z6FNK8Ophicz1-q05489ziag/view?usp=sharing](https://drive.google.com/file/d/1QvEUC7S1Z6FNK8Ophicz1-q05489ziag/view?usp=sharing)
+- 📄 Know about my experiences please have a look my [Resume](https://drive.google.com/file/d/1MxHixK9nbZ-DXMddGcB_tTnyOauf1ewV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
