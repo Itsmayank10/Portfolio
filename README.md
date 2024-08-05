@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Software Quality Assurance Engineer at Click Labs</h1>
-<h3 align="center">Quality Assurance Engineer with excellent bug finding skills in a software or product and ability to perform well in a team. Passionate about coding and always keen to learn the new things.</h3>
+<h1 align="center">Hi 👋, I'm Software Engineer In Test</h1>
+<h3 align="center">Software Development Engineer In Test with excellent bug finding skills in a software or product and ability to perform well in a team. Passionate about coding and always keen to learn the new things. Thorough quality assurance professional highly skilled in manual and automated application testing. Partners successfully with project management and development team members to put out high-quality software for customers. Decisive in identifying problems at any stage of production.</h3>
 
 - 🔭 I’m currently working on [Tookan Product](https://jungleworks.com/tookan/)
 
