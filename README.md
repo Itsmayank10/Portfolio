@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS,Docker,Appium**
 
-- 📫 How to reach me through Email **itsmayank10@gmail.com**
+- 📫 How to reach me through Email **[itsmayank10@gmail.com](itsmayank10@gmail.com)**
   
 - 📫 How to reach me through Mobile **+917000218285**
 
