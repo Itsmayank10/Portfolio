@@ -1,32 +1,116 @@
-<h1 align="center">Hi 👋, I'm Software Engineer In Test</h1>
-<h3 align="center">Software Development Engineer In Test with excellent bug finding skills in a software or product and ability to perform well in a team. Passionate about coding and always keen to learn the new things. Thorough quality assurance professional highly skilled in manual and automated application testing. Partners successfully with project management and development team members to put out high-quality software for customers. Decisive in identifying problems at any stage of production.</h3>
-
-- 🔭 I’m currently working at [CoinDCX](https://coindcx.com/) as a Senior SDET
-
-- 🌱 I’m currently learning **AWS,Docker,Appium**
-
-- 📫 How to reach me through Email **itsmayank10@gmail.com**
-  
-- 📫 How to reach me through Mobile **+917000218285**
-
-- 📄 Know about my experiences please have a look my [Resume](https://drive.google.com/file/d/1MxHixK9nbZ-DXMddGcB_tTnyOauf1ewV/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/itsmayank10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmayank10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/itsmayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itsmayank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itsmayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsmayank" height="30" width="40" /></a>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Mayank+Sharma;Senior+SDET+@+CoinDCX;Automation+%7C+DevOps+%7C+Quality+Engineering;Driving+Reliability+Through+Technology"
+    alt="Typing SVG"
+  />
 </p>
 
-<h3 align="left">Areas of Expertise:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://rest-assured.io/img/name-transparent.png" alt="Rest Assured" width="70" height="30"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-<a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/appium/appium/master/packages/appium/docs/overrides/assets/images/appium-logo-horiz.png" alt="Appium" width="70" height="30"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SDET-Automation%20Engineer-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Java-Expert-green?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/QA%20Automation-Professional-orange?style=for-the-badge&logo=selenium" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsmayank10&label=Profile+Views&color=0e75b6&style=flat">
+</p>
+
+# ⭐ About Me
+
+I'm a **Senior SDET at CoinDCX** with expertise in building scalable automation frameworks, ensuring end-to-end product quality, and driving engineering excellence.
+
+I specialize in **Automation Engineering, API Testing, Mobile Automation, DevOps, and Quality Strategy**.
+
+- 🔭 Working on **API, Web & Mobile automation frameworks**
+- 🌱 Learning **Docker, Kubernetes & Performance Testing**
+- 🤝 Collaboration: **Open-source QA tools, automation utilities**
+- 📄 Know about my experience have look my <a href="https://drive.google.com/file/d/13ooEfTVcF2IO2XXxCUjGH8Wye54w2fM_/view?usp=drivesdk">Resume</a>
+- 📧 Reach out to me on → *Email(itsmayank10@gmail.com)*
+- 📱 Contact → *(7000218285)*
+
+---
+
+# 🌐 Connect With Me  
+<p>
+  <a href="https://linkedin.com/in/itsmayank10"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://leetcode.com/itsmayank"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
+  <a href="https://hackerrank.com/itsmayank"><img src="https://skillicons.dev/icons?i=hackerrank" height="45"/></a>
+</p>
+
+---
+
+# 🧠 Areas of Expertise
+
+### ✔ **Automation Engineering**
+- Selenium (Web), Appium (Mobile), TestNG, JUnit  
+- API Testing: Rest-Assured, Postman  
+- Page Object Model (POM), Hybrid Frameworks  
+
+### ✔ **DevOps & Cloud**
+- Jenkins, GitHub Actions  
+- Docker, Kubernetes  
+- AWS (EC2, Lambda, S3 basics)
+
+### ✔ **Testing Skills**
+- Functional, Regression, E2E Testing  
+- Test Strategies & Planning  
+- Performance Testing (Basics)
+
+### ✔ **Systems & Databases**
+- Linux (Ubuntu, RHEL)  
+- MySQL, PostgreSQL
+
+---
+
+# 🛠 Tech Stack  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,maven,jenkins,docker,kubernetes,git,github,aws,linux,mysql,postman" />
+<br/>
+<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" />
+</p>
+
+---
+
+# 📂 Featured Projects  
+
+### 🔹 **API Automation Framework – Rest Assured**
+- Modular design  
+- Environment configs  
+- Allure/Extent reporting  
+
+### 🔹 **Mobile Automation (Appium + Java)**
+- POM + Page Factory  
+- Emulator/Real Device support  
+- CI integration  
+
+### 🔹 **Selenium Automation Framework**
+- Retry logic  
+- Logger + screenshot utilities
+
+---
+
+# 🏆 Milestones & Achievements
+
+- 🚀 Reduced automation execution time by **50%+**
+- 🧪 Designed robust test suites for high-scale fintech products  
+- 🐞 Identified multiple high-severity bugs pre-production  
+- ⚙ Improved Dev–QA collaboration via automation & tooling  
+- 📈 Increased test coverage across critical workflows
+
+---
+
+# 🎯 Goals for 2025
+
+- Build an **open-source automation framework**  
+- Master **Kubernetes + Performance Testing**  
+- Move towards **Automation Architect / Lead SDET role**  
+- Develop **QA productivity tools & CLI utilities**  
+
+---
+
+# 💬 Quote  
+> **“Quality is not an act, it is a habit.” — Aristotle**
+
+---
